@@ -1,4 +1,5 @@
-# Hi there, I'm Priyansh Goel! 👋
+# Hi there, I'm [Priyansh Goel!](https://portfolio-lo2e.vercel.app/)
+ 👋
 
 <div align="center">
   
@@ -6,9 +7,9 @@
 
 </div>
 
-I'm a passionate **Full Stack Developer** and **Electrical Engineering** student at B.I.T. Sindri, Dhanbad, with a strong foundation in modern web technologies and mobile development. I love building scalable applications that solve real-world problems.
+I’m a passionate Full Stack Developer and Electrical Engineering student at B.I.T. Sindri, Dhanbad, with a strong foundation in modern web and mobile technologies. I love building scalable, user-focused applications that solve real-world problems and turn ideas into impactful digital products.
 
-[Portfolio Website](https://portfolio-lo2e.vercel.app/)
+Currently working on a healthcare-focused startup, I’m driven by innovation, discipline, and continuous growth.
 
 ## 🧰 Languages and Tools
 
