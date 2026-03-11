@@ -1,5 +1,4 @@
-# Hi there, I'm [Priyansh Goel!](https://portfolio-lo2e.vercel.app/)
- 👋
+# Hi there, I'm [Priyansh Goel!](https://portfolio-lo2e.vercel.app/)👋
 
 <div align="center">
   
@@ -37,7 +36,7 @@ Currently working on a healthcare-focused startup, I’m driven by innovation, d
 ## 🌟 Featured Projects
 
 ### 📱 [AttendX - Geolocation-Based Attendance System](https://github.com/aadarshagarwal1/AttendX)
-> *May 2025 - Present*
+> *March 2025 - January 2026*
 - **React Native** app with geofencing-based attendance using **Expo Location API**
 - Role-based interfaces for teachers and students with comprehensive analytics
 - **Express.js** backend with **PostgreSQL**, **Redis**, and **JWT authentication**
@@ -53,9 +52,9 @@ Currently working on a healthcare-focused startup, I’m driven by innovation, d
 
 <div align="center">
   
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadarshagarwal1&show_icons=true&theme=tokyonight&hide_border=true)
+![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyansh-goel-548&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshagarwal1&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-goel-548&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh-goel-548&theme=tokyonight&hide_border=true)
 
